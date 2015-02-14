@@ -7,6 +7,7 @@
 @google_analytics = ''
 set :site_name, 'Wmitrut middleman boilerplate'
 set :site_description, 'A Static Site Generator'
+set :site_url, 'http://wmitrut.github.io'
 set :site_twitter, '@wmitrut'
 
 

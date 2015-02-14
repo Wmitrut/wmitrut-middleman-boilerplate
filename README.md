@@ -1,4 +1,6 @@
-## Middleman with Slim, Sass, Inuitcss, Bourbon, Susy, Bower and more.
+## WMITRUT middleman Boilerplate
+
+### A middleman template with Slim, Sass, Inuitcss, Bourbon, Susy, Bower and more.
 
 This is a base [Middleman](http://middlemanapp.com) template application. This sets all of the defaults that I'll generally set when building a new application on Middleman. Be sure to read all of the documentation to become familiar with Middleman before using this base setup.
 
@@ -13,6 +15,7 @@ This is a base [Middleman](http://middlemanapp.com) template application. This s
 * [Susy](http://susy.oddbird.net): Responsive layout toolkit for Sass.
 * [Coffeescript](http://coffeescript.org)
 * [jQuery](http://jquery.com): jQuery is a fast, small, and feature-rich JavaScript library.
+* [FontAwesome](http://fortawesome.github.io/Font-Awesome/): The iconic font and CSS toolkit
 * Language configuration
 * Gzip
 * Faker (Fake content generator with several helpers predefined)
